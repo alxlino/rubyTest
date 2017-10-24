@@ -1,0 +1,6 @@
+[caps]
+platformName = 'iOS'  
+platformVersion = '11.0.1'  
+deviceName = 'iPhone X'
+udid = '26F0DCD3-BEF8-4388-83EC-DECB1FCB6257' 
+app = '/Users/alexandrelino/Downloads/iPhoneCoreDataRecipes/build/Release-iphonesimulator/Recipes.app'

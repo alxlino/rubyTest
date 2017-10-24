@@ -1,0 +1,6 @@
+[caps]
+platformName = 'iOS'  
+platformVersion = '10.3.2'  
+deviceName = 'Iphone'
+udid = '2c33d7745857c30d2bbd841725dad921a5ae986'  
+app = '/Users/alexandrelino/Documents/App.ipa'

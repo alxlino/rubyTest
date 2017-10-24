@@ -1,0 +1,8 @@
+[caps]
+platformName = 'iOS'  
+platformVersion = '11.0'  
+deviceName = 'iPhone X'
+udid = '26F0DCD3-BEF8-4388-83EC-DECB1FCB6257'  
+browserName = 'Safari'
+autoGrantPermissions = true
+noReset = true

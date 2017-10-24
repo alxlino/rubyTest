@@ -1,0 +1,55 @@
+file:///D:/ALEXANDRE/DOWNLOADS/AvaliacaoC_4.pdf
+
+https://gitlab.com/mobile_app/apk_avaliacao/blob/master/Cadastro%20de%20Carros%20Web_v1.0_apkpure.com.apk
+
+video github
+https://www.youtube.com/watch?v=Ejq2tKv1G74
+
+comandos start shutdown renstall apps
+https://groups.google.com/forum/#!topic/calabash-android/wKCTbjKlg9w
+https://github.com/calabash/calabash-android/blob/master/documentation/ruby_api.md
+
+guia prático github
+http://git.huit.harvard.edu/guide/index.pt_BR.html
+
+tutorial calabash
+http://taketest.take.net/2016/02/19/calabash-android-comecando-um-projeto/
+
+page objects calabash
+https://azevedorafaela.wordpress.com/tag/page-object-model-calabash/
+https://github.com/calabash/x-platform-example
+
+examples calabash
+https://github.com/calabash/calabash-android/blob/master/ruby-gem/lib/calabash-android/abase.rb
+https://github.com/calabash/calabash-android/blob/master/ruby-gem/lib/calabash-android/operations.rb
+
+scroll examples
+https://stackoverflow.com/questions/34873453/calabash-android-scroll-to-element
+
+adb-android-device-unauthorized
+https://stackoverflow.com/questions/23081263/adb-android-device-unauthorized
+
+identifying-elements
+http://roadtoautomation.blogspot.com.br/2013/12/road-to-identifying-elements-using.html
+
+vídeo calabash
+https://www.youtube.com/watch?v=ZdgOxM_uOmE
+
+documentation 	
+https://github.com/calabash/calabash-android/blob/master/documentation/installation.md#prerequisites
+
+debug.keystore
+https://github.com/calabash/calabash-android/wiki/Running-Calabash-Android
+
+Automação de testes funcionais em app Android com Calabash
+https://medium.com/@diogo___miranda/automa%C3%A7%C3%A3o-de-testes-funcionais-em-app-android-com-calabash-ba87473b0bfd
+
+motorola device manager - ADB Interface
+https://motorola-global-portal-pt.custhelp.com/app/answers/detail/a_id/89879
+
+http://taketest.take.net/2016/03/28/calabash-android-executando-testes-em-mais-de-um-aparelho-movel/
+
+====projeto
+https://github.com/alxlino/PROJETO-WebService-API
+
+https://github.com/alxlino/PROJETO-App-Mobile-Android
